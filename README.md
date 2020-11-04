@@ -8,3 +8,10 @@ We parse the first line of the HTTP request that contains the type of the reques
 
 This program is intended for practicing and gaining hands-on experiences on the concept of inter-process communication across a network 
 using sockets.
+
+Entrance of the program: image_server
+
+Example usage:
+make
+./image_server
+go to: localhost:port/main.html
